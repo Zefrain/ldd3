@@ -2,3 +2,14 @@ tags
 cscope.*
 
 .*
+*.o
+*~
+core
+.depend
+.*.cmd
+*.ko
+*.mod.c
+.tmp_versions
+*.mod
+*.order
+*.symvers
